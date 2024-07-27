@@ -4,3 +4,4 @@ plotly==3.10.0
 pandas==0.25.0
 chart_studio==1.0.0
 fbprophet==0.5
+pystan==2.19.1.1
